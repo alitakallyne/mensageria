@@ -8,7 +8,7 @@
 		<version>3.2.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.rocha</groupId>
+	<groupId>br.com.mensageria</groupId>
 	<artifactId>validador-boleto</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>validador-boleto</name>

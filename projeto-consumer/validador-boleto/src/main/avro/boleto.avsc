@@ -1,6 +1,6 @@
 {
     "type": "record",
-    "namespace": "br.com.rocha.avro",
+    "namespace": "br.com.mensageria.avro",
     "name": "Boleto",
     "fields": [
         {
